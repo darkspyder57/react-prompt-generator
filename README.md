@@ -14,7 +14,7 @@ This is a react component that takes user prompt and analyses it and displays re
 Install the npm package using:
 
 ```sh
-npm react-prompt-generator
+npm react-prompt-generator@1.0.0
 ```
 
 ## Usage
