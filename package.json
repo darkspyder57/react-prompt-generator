@@ -1,0 +1,33 @@
+{
+  "name": "react-prompt-generator",
+  "version": "1.0.0",
+  "description": "A React Component that analyses the input prompt and displays an output on the canvas. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkspyder57/react-prompt-generator.git"
+  },
+  "author": "https://github.com/darskpyder57",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkspyder57/react-prompt-generator/issues"
+  },
+  "homepage": "https://github.com/darkspyder57/react-prompt-generator#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
