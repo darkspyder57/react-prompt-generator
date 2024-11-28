@@ -4,7 +4,7 @@ module.exports = {
     mode: "production",
     entry: './src/index.js',
     output: {
-        path: path.resolve(__dirname, "build"),
+        path: path.resolve("build"),
         filename: 'index.js',
         library: 'react-prompt-generator',
         libraryTarget: 'commonjs2',
