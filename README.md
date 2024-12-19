@@ -56,4 +56,4 @@ It is well responsive so you don't have to worry about responsiveness.
 
 ## Contributing
 
-It is still version 1.0.0 so I am up for collaborations. Even the smallest improvements matter.
+It is still version 1.0.1 so I am up for collaborations. Even the smallest improvements matter.
